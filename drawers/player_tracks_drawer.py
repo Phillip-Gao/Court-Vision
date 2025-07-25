@@ -1,4 +1,4 @@
-from .utils import draw_ellipse,draw_traingle
+from .utils import draw_ellipse, draw_triangle
 
 class PlayerTracksDrawer:
     """
